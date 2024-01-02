@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrTurtleCoder
+- 👋 Hi, I’m @Can
 - 👀 I’m interested in to code with Java and C#
 - 🌱 I’m currently learning Java Spring and JNA 
 
