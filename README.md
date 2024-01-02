@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrTurtleCoder
-- 👀 I’m interested in to code with Java and C++
+- 👀 I’m interested in to code with Java and C#
 - 🌱 I’m currently learning Java Spring and JNA 
 
 
